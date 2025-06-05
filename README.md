@@ -7,7 +7,7 @@ Welcome to my GitHub Labs Capstone Project! This project demonstrates the GitHub
 ## 🌐 Live Site
 
 🔗 **View the deployed website:**  
-[https://yourusername.github.io/capstone-project/](https://yourusername.github.io/capstone-project/)
+[https://12David1.github.io/capstone-project/](https://12David1.github.io/capstone-project/)
 
 ---
 
@@ -27,7 +27,7 @@ This project includes a simple, responsive web page built using **HTML** and **C
 
 ### 🧑‍💻 Profile README
 I created a GitHub profile README that shares a brief bio, my skills, and current interests.  
-📍 View it here: [https://github.com/yourusername](https://github.com/yourusername)
+📍 View it here: [https://github.com/12David1](https://github.com/12David1)
 
 ---
 
@@ -36,7 +36,7 @@ I created a GitHub profile README that shares a brief bio, my skills, and curren
 I planned my work using a public GitHub Project Board with at least 6 tasks, labels, and clear progress tracking.
 
 📋 **View the Sprint Board:**  
-[https://github.com/users/yourusername/projects/1](https://github.com/users/yourusername/projects/1)
+[https://github.com/users/12David1/projects/1](https://github.com/users/12David1/projects/1)
 
 ---
 
